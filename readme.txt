@@ -6,4 +6,3 @@
 777777
 888888
 fenzhi1caozuo1
-fenzhi1caozuo2
